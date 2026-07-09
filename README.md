@@ -35,7 +35,7 @@ Toàn bộ thao tác được gói gọn trong **một script bash duy nhất**,
 
 ```bash
 # 1. Clone repo vào một thư mục trên máy chủ Linux (nơi cắm máy in qua USB)
-git clone https://github.com/tromcap1102/Canon-LBP2900-CAPT-Toolkit.git
+git clone https://github.com/oimala/Canon-LBP2900-CAPT-Toolkit.git
 cd Canon-LBP2900-CAPT-Toolkit
 
 # 2. Chạy script với quyền root (menu tương tác)
